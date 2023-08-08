@@ -1,1 +1,1 @@
-Collection of LeetCode questions to ace the coding interview!
+Practise questions of leetcode
